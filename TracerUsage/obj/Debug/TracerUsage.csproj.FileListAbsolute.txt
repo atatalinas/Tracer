@@ -1,0 +1,11 @@
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\obj\Debug\TracerUsage.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\bin\Debug\TracerUsage.exe.config
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\bin\Debug\TracerUsage.exe
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\bin\Debug\TracerUsage.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\bin\Debug\Tracer.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\bin\Debug\Tracer.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\bin\Debug\Tracer.dll.config
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\obj\Debug\TracerUsage.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\obj\Debug\TracerUsage.csproj.CopyComplete
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\obj\Debug\TracerUsage.exe
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\TracerUsage\obj\Debug\TracerUsage.pdb

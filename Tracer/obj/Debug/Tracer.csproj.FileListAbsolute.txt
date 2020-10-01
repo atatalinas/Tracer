@@ -1,0 +1,7 @@
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\Tracer\obj\Debug\Tracer.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\Tracer\obj\Debug\Tracer.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\Tracer\bin\Debug\Tracer.dll.config
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\Tracer\bin\Debug\Tracer.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\Tracer\bin\Debug\Tracer.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\Tracer\obj\Debug\Tracer.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\Tracer\Tracer\obj\Debug\Tracer.pdb
